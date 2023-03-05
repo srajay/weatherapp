@@ -1,0 +1,20 @@
+.datetime {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+}
+
+.time {
+  margin-left: 20px;
+}
+
+.time > p {
+  color: #fff;
+  font-weight: 800;
+}
+
+.date > p {
+  color: #fff;
+  font-weight: 800;
+}

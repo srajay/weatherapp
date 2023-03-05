@@ -1,0 +1,6 @@
+.mainpage-container {
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 10px;
+    margin: 10px;
+}
